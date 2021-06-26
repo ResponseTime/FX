@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="671.0" prefWidth="1242.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.control">
+   <children>
+      <Button layoutX="595.0" layoutY="377.0" mnemonicParsing="false" onAction="#changeback" text="change back" />
+      <Label fx:id="labe" layoutX="110.0" layoutY="87.0" prefHeight="212.0" prefWidth="349.0" style="-fx-alignment: center;" />
+   </children>
+</AnchorPane>
